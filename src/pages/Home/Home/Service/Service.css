@@ -1,0 +1,9 @@
+.card-container{
+    box-shadow: none;
+    transition: 1s;
+}
+.card-container:hover{
+    box-shadow: -3px 6px 17px 6px rgba(0,0,0,0.75);
+-webkit-box-shadow: -3px 6px 17px 6px rgba(0,0,0,0.75);
+-moz-box-shadow: -3px 6px 17px 6px rgba(204, 204, 204, 0.75);
+}
