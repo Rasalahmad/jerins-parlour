@@ -1,5 +1,7 @@
 .card-container{
     box-shadow: none;
+    border: 0;
+    outline: none;
     transition: 1s;
 }
 .card-container:hover{
